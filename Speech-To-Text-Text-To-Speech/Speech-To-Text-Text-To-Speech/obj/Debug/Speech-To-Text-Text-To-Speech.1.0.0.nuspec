@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Speech-To-Text-Text-To-Speech</id>
+    <version>1.0.0</version>
+    <authors>Speech-To-Text-Text-To-Speech</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net10.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net10.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\omrkv\source\repos\Speech-To-Text-Text-To-Speech\Speech-To-Text-Text-To-Speech\bin\Debug\net10.0-windows\Speech-To-Text-Text-To-Speech.runtimeconfig.json" target="lib\net10.0-windows7.0\Speech-To-Text-Text-To-Speech.runtimeconfig.json" />
+    <file src="C:\Users\omrkv\source\repos\Speech-To-Text-Text-To-Speech\Speech-To-Text-Text-To-Speech\bin\Debug\net10.0-windows\Speech-To-Text-Text-To-Speech.dll" target="lib\net10.0-windows7.0\Speech-To-Text-Text-To-Speech.dll" />
+  </files>
+</package>

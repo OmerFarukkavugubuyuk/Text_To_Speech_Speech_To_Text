@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GuI/hSzH3ao=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omrkv\\source\\repos\\Speech-To-Text-Text-To-Speech\\Speech-To-Text-Text-To-Speech\\Speech-To-Text-Text-To-Speech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omrkv\\.nuget\\packages\\system.speech\\10.0.5\\system.speech.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
